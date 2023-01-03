@@ -5,10 +5,10 @@ Step-by-step installation from scratch
 
 Prerequisites:
 
-RHEL 8.3 using VirutalBox via Putty on Windows
+1.RHEL 8.3 using VirutalBox via Putty on Windows
 
-Create a non root AWS account
+2.Create a non root AWS account
 
-Install AWS CLI
+3.Install AWS CLI
 
-Install Terraform — Provisioning EC2
+4.Install Terraform — Provisioning EC2
